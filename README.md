@@ -1,2 +1,2 @@
 # MediaLibraryDB
-A SQL Database for the MediaClientApp. Using MariaDB!
+A SQL Database for the MediaLibraryApp. Using MariaDB!
